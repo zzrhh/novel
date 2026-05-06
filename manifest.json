@@ -1,0 +1,27 @@
+{
+  "generatedAt": "2026-05-06T05:39:54.912Z",
+  "books": [
+    {
+      "title": "我以残剑镇诸天",
+      "slug": "%E6%88%91%E4%BB%A5%E6%AE%8B%E5%89%91%E9%95%87%E8%AF%B8%E5%A4%A9",
+      "path": "./books/我以残剑镇诸天",
+      "description": "以残剑破万法，一路杀回九州之巅。",
+      "chapters": [
+        {
+          "number": 1,
+          "title": "第1章：退婚之日",
+          "path": "./books/我以残剑镇诸天/章节/1.md",
+          "characters": 3235,
+          "updatedAt": "2026-05-06T01:40:46.957Z"
+        },
+        {
+          "number": 2,
+          "title": "第2章：断剑认主",
+          "path": "./books/我以残剑镇诸天/章节/2.md",
+          "characters": 3446,
+          "updatedAt": "2026-05-06T01:40:46.975Z"
+        }
+      ]
+    }
+  ]
+}

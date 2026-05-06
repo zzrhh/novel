@@ -1,0 +1,11 @@
+{
+  "name": "novel-pages",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-manifest.mjs",
+    "serve": "node scripts/serve.mjs",
+    "publish": "bash scripts/publish-latest.sh"
+  }
+}

@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#17120d" />
+    <title>我的小说书架</title>
+    <link rel="stylesheet" href="./assets/style.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <aside class="shelf" aria-label="章节列表">
+        <div class="brand">
+          <p class="eyebrow">Novel Archive</p>
+          <h1 id="site-title">我的小说书架</h1>
+          <p id="site-subtitle">自动同步 Markdown 章节，手机上直接读。</p>
+        </div>
+
+        <label class="book-picker">
+          <span>当前作品</span>
+          <select id="book-select" aria-label="选择作品"></select>
+        </label>
+
+        <nav id="chapter-list" class="chapter-list" aria-label="选择章节"></nav>
+
+        <div class="shelf-footer">
+          <span id="chapter-count">正在载入章节</span>
+          <span id="updated-at"></span>
+        </div>
+      </aside>
+
+      <main class="reader">
+        <div class="reader-toolbar">
+          <button id="menu-toggle" class="ghost-button" type="button" aria-expanded="false">
+            目录
+          </button>
+          <div class="progress-track" aria-hidden="true">
+            <span id="read-progress"></span>
+          </div>
+        </div>
+
+        <article class="chapter-card">
+          <p id="book-kicker" class="eyebrow">正在载入</p>
+          <div id="chapter-content" class="chapter-content">
+            <h1>正在打开书页</h1>
+            <p>如果你看到这句话很久，可以确认是否已经运行过 <code>npm run build</code>。</p>
+          </div>
+        </article>
+
+        <div class="chapter-nav">
+          <button id="prev-chapter" type="button">上一章</button>
+          <button id="next-chapter" type="button">下一章</button>
+        </div>
+      </main>
+    </div>
+
+    <script src="./assets/app.js" type="module"></script>
+  </body>
+</html>
