@@ -40,6 +40,6 @@ npm run publish -- "更新最新章节"
 
 仓库 `zzrhh/novel` 创建后，在 GitHub 的仓库设置里进入 `Settings -> Pages`。
 
-如果选择 `GitHub Actions` 作为来源，仓库里的 `.github/workflows/pages.yml` 会自动发布。推送到 `main` 后，网页地址就是 `https://zzrhh.github.io/novel/`。
+推荐先选择 `Deploy from a branch`，请选择 `main` 分支和 `/root` 目录。这个项目的 `index.html`、`manifest.json` 和章节文件都在根目录可直接发布。
 
-如果选择 `Deploy from a branch`，请选择 `main` 分支和 `/root` 目录。
+如果之后想改成 `GitHub Actions`，再把 Source 切换为 `GitHub Actions`，仓库里的 `.github/workflows/pages.yml` 会自动构建并发布。
