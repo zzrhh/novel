@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T08:59:54.583Z",
+  "generatedAt": "2026-05-06T11:28:08.012Z",
   "books": [
     {
       "title": "我以残剑镇诸天",
@@ -25,8 +25,8 @@
           "number": 3,
           "title": "第3章：剑骨封印",
           "path": "./books/我以残剑镇诸天/章节/3.md",
-          "characters": 2465,
-          "updatedAt": "2026-05-06T08:59:44.021Z"
+          "characters": 3078,
+          "updatedAt": "2026-05-06T11:27:59.880Z"
         },
         {
           "number": 4,
