@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T11:28:08.012Z",
+  "generatedAt": "2026-05-06T11:51:53.441Z",
   "books": [
     {
       "title": "我以残剑镇诸天",
@@ -12,7 +12,7 @@
           "title": "第1章：退婚之日",
           "path": "./books/我以残剑镇诸天/章节/1.md",
           "characters": 3235,
-          "updatedAt": "2026-05-06T01:40:46.957Z"
+          "updatedAt": "2026-05-06T11:47:02.928Z"
         },
         {
           "number": 2,
@@ -40,7 +40,42 @@
           "title": "第5章：重开第一脉",
           "path": "./books/我以残剑镇诸天/章节/5.md",
           "characters": 2403,
-          "updatedAt": "2026-05-06T08:59:44.067Z"
+          "updatedAt": "2026-05-06T11:39:18.762Z"
+        },
+        {
+          "number": 6,
+          "title": "第6章：三年第一拳",
+          "path": "./books/我以残剑镇诸天/章节/6.md",
+          "characters": 1695,
+          "updatedAt": "2026-05-06T11:51:40.750Z"
+        },
+        {
+          "number": 7,
+          "title": "第7章：大长老问罪",
+          "path": "./books/我以残剑镇诸天/章节/7.md",
+          "characters": 2001,
+          "updatedAt": "2026-05-06T11:51:40.772Z"
+        },
+        {
+          "number": 8,
+          "title": "第8章：夜半杀机",
+          "path": "./books/我以残剑镇诸天/章节/8.md",
+          "characters": 1857,
+          "updatedAt": "2026-05-06T11:51:40.790Z"
+        },
+        {
+          "number": 9,
+          "title": "第9章：玄阳宗令牌",
+          "path": "./books/我以残剑镇诸天/章节/9.md",
+          "characters": 1737,
+          "updatedAt": "2026-05-06T11:51:40.808Z"
+        },
+        {
+          "number": 10,
+          "title": "第10章：她要断剑",
+          "path": "./books/我以残剑镇诸天/章节/10.md",
+          "characters": 2045,
+          "updatedAt": "2026-05-06T11:51:40.826Z"
         }
       ]
     }
