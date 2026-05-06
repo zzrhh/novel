@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T20:50:26.492Z",
+  "generatedAt": "2026-05-06T21:04:21.972Z",
   "books": [
     {
       "title": "我以残剑镇诸天",
@@ -146,6 +146,76 @@
           "path": "./books/我以残剑镇诸天/章节/20.md",
           "characters": 2001,
           "updatedAt": "2026-05-06T20:46:29.461Z"
+        },
+        {
+          "number": 21,
+          "title": "第21章：城主府施压",
+          "path": "./books/我以残剑镇诸天/章节/21.md",
+          "characters": 2404,
+          "updatedAt": "2026-05-06T21:01:40.398Z"
+        },
+        {
+          "number": 22,
+          "title": "第22章：半决赛前夜",
+          "path": "./books/我以残剑镇诸天/章节/22.md",
+          "characters": 2028,
+          "updatedAt": "2026-05-06T21:01:40.439Z"
+        },
+        {
+          "number": 23,
+          "title": "第23章：祖祠夺机缘",
+          "path": "./books/我以残剑镇诸天/章节/23.md",
+          "characters": 2037,
+          "updatedAt": "2026-05-06T21:04:16.246Z"
+        },
+        {
+          "number": 24,
+          "title": "第24章：兄弟反目",
+          "path": "./books/我以残剑镇诸天/章节/24.md",
+          "characters": 2014,
+          "updatedAt": "2026-05-06T21:02:12.974Z"
+        },
+        {
+          "number": 25,
+          "title": "第25章：半决赛，林家内战",
+          "path": "./books/我以残剑镇诸天/章节/25.md",
+          "characters": 2155,
+          "updatedAt": "2026-05-06T21:03:01.354Z"
+        },
+        {
+          "number": 26,
+          "title": "第26章：血掌禁术",
+          "path": "./books/我以残剑镇诸天/章节/26.md",
+          "characters": 2015,
+          "updatedAt": "2026-05-06T21:03:01.395Z"
+        },
+        {
+          "number": 27,
+          "title": "第27章：一剑败林炎",
+          "path": "./books/我以残剑镇诸天/章节/27.md",
+          "characters": 2015,
+          "updatedAt": "2026-05-06T21:04:16.290Z"
+        },
+        {
+          "number": 28,
+          "title": "第28章：决赛对手",
+          "path": "./books/我以残剑镇诸天/章节/28.md",
+          "characters": 2088,
+          "updatedAt": "2026-05-06T21:03:48.152Z"
+        },
+        {
+          "number": 29,
+          "title": "第29章：生死决赛",
+          "path": "./books/我以残剑镇诸天/章节/29.md",
+          "characters": 2150,
+          "updatedAt": "2026-05-06T21:04:16.334Z"
+        },
+        {
+          "number": 30,
+          "title": "第30章：封脉剑术",
+          "path": "./books/我以残剑镇诸天/章节/30.md",
+          "characters": 2027,
+          "updatedAt": "2026-05-06T21:03:48.238Z"
         }
       ]
     }
