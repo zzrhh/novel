@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T21:04:21.972Z",
+  "generatedAt": "2026-05-06T21:30:55.002Z",
   "books": [
     {
       "title": "我以残剑镇诸天",
@@ -216,6 +216,48 @@
           "path": "./books/我以残剑镇诸天/章节/30.md",
           "characters": 2027,
           "updatedAt": "2026-05-06T21:03:48.238Z"
+        },
+        {
+          "number": 31,
+          "title": "第31章：逆境破敌",
+          "path": "./books/我以残剑镇诸天/章节/31.md",
+          "characters": 2171,
+          "updatedAt": "2026-05-06T21:28:31.481Z"
+        },
+        {
+          "number": 32,
+          "title": "第32章：青云第一",
+          "path": "./books/我以残剑镇诸天/章节/32.md",
+          "characters": 2003,
+          "updatedAt": "2026-05-06T21:30:49.443Z"
+        },
+        {
+          "number": 33,
+          "title": "第33章：我不要你了",
+          "path": "./books/我以残剑镇诸天/章节/33.md",
+          "characters": 2092,
+          "updatedAt": "2026-05-06T21:29:04.997Z"
+        },
+        {
+          "number": 34,
+          "title": "第34章：夜袭林家",
+          "path": "./books/我以残剑镇诸天/章节/34.md",
+          "characters": 2028,
+          "updatedAt": "2026-05-06T21:30:29.874Z"
+        },
+        {
+          "number": 35,
+          "title": "第35章：父亲未死？",
+          "path": "./books/我以残剑镇诸天/章节/35.md",
+          "characters": 2173,
+          "updatedAt": "2026-05-06T21:29:59.906Z"
+        },
+        {
+          "number": 36,
+          "title": "第36章：入宗之前",
+          "path": "./books/我以残剑镇诸天/章节/36.md",
+          "characters": 2182,
+          "updatedAt": "2026-05-06T21:29:59.960Z"
         }
       ]
     }
