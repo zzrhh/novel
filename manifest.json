@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T05:49:28.828Z",
+  "generatedAt": "2026-05-06T08:59:54.583Z",
   "books": [
     {
       "title": "我以残剑镇诸天",
@@ -20,6 +20,27 @@
           "path": "./books/我以残剑镇诸天/章节/2.md",
           "characters": 3446,
           "updatedAt": "2026-05-06T01:40:46.975Z"
+        },
+        {
+          "number": 3,
+          "title": "第3章：剑骨封印",
+          "path": "./books/我以残剑镇诸天/章节/3.md",
+          "characters": 2465,
+          "updatedAt": "2026-05-06T08:59:44.021Z"
+        },
+        {
+          "number": 4,
+          "title": "第4章：祖祠地下",
+          "path": "./books/我以残剑镇诸天/章节/4.md",
+          "characters": 2123,
+          "updatedAt": "2026-05-06T08:59:44.044Z"
+        },
+        {
+          "number": 5,
+          "title": "第5章：重开第一脉",
+          "path": "./books/我以残剑镇诸天/章节/5.md",
+          "characters": 2403,
+          "updatedAt": "2026-05-06T08:59:44.067Z"
         }
       ]
     }
